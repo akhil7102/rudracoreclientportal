@@ -1,6 +1,6 @@
 
   {
-      "name": "Design RudraCore Client Portal",
+      "name": "RudraCore - Client Portal",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
